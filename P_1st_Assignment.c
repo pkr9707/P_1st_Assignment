@@ -8,6 +8,6 @@ int main()
 	printf("mobile phone number: 010 3090 5251\n");
 	printf("GitHub address: https://github.com/pkr9707");
 	getchar();
-	return0;
+	return 0;
 
 }
